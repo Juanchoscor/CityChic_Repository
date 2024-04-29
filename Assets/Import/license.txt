@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sneakers Adidas Yellow & Black
+* source:	https://sketchfab.com/3d-models/sneakers-adidas-yellow-black-89b7408463b144d0bd157cc788dd496d
+* author:	mr.pinoux (https://sketchfab.com/mr.pinoux)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sneakers Adidas Yellow & Black" (https://sketchfab.com/3d-models/sneakers-adidas-yellow-black-89b7408463b144d0bd157cc788dd496d) by mr.pinoux (https://sketchfab.com/mr.pinoux) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
